@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaPython, FaJava, FaCode, FaDatabase, FaBrain, FaLaptopCode } from 'react-icons/fa';
+import { FaCode, FaBrain, FaLaptopCode } from 'react-icons/fa';
 
 const About = () => {
   return (
